@@ -18,7 +18,6 @@ Length, in days, of the rental agreement
 
 Indicator of whether the customer bought the optional insurance policy 
 
-
 Display output as follows:
 
 If the contract number is not between 10000 and 99999 inclusive, issue an error message and end the program.
